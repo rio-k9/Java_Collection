@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="(Software Engineering) Quiz/src"/>
+	<classpathentry kind="src" path="CLASSROOM/3 Week"/>
+	<classpathentry kind="src" path="CLASSROOM/4 Week"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/JavaBasics/BankAccount/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/JavaBasics/Hello/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/JavaBasics/HelloWorld/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/Circle/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/Colour/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/DisplayString/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/DrawLine/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/DrawOvals/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/DrawRectangles/src"/>
+	<classpathentry kind="src" path="CLASSROOM/ExamplePrograms1/SimpleGraphics/HelloWorldGUI/src"/>
+	<classpathentry kind="src" path="CLASSROOM/week 2 lab/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market-2/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market-3/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market2/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market3/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market4/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market5/src"/>
+	<classpathentry kind="src" path="COURSEWORK - Stock Market6/src"/>
+	<classpathentry kind="src" path="Coursework Quiz/src"/>
+	<classpathentry kind="src" path="Exam 13_14/src"/>
+	<classpathentry kind="src" path="Exam 14_15/src"/>
+	<classpathentry kind="src" path="Exam 15_16/src"/>
+	<classpathentry kind="src" path="Exam Q3/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/Call/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/CallListener/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/Hello2Client/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/Hello2Server/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/HelloClient/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/HelloServer/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/MatrixClient/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/MatrixServer/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/PortTester/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/ReverseStringClient/src"/>
+	<classpathentry kind="src" path="ExamplePrograms10/ReverseStringServer/src"/>
+	<classpathentry kind="src" path="FTP_one/src"/>
+	<classpathentry kind="src" path="Interesting/src"/>
+	<classpathentry kind="src" path="interview/src/q1"/>
+	<classpathentry kind="src" path="Java Coursework Draft/src"/>
+	<classpathentry kind="src" path="JavaFX Hello World/src"/>
+	<classpathentry kind="src" path="JavaFX Stock Market/src"/>
+	<classpathentry kind="src" path="JXtest/src"/>
+	<classpathentry kind="src" path="Leap Year/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/JavaBasics/BankAccount/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/JavaBasics/Hello/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/JavaBasics/HelloWorld/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/Circle/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/Colour/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/DisplayString/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/DrawLine/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/DrawOvals/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/DrawRectangles/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 1/SimpleGraphics/HelloWorldGUI/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Absolute/src"/>
+	<classpathentry excluding="senzo/" kind="src" path="Learning Examples/Week 2/Arguments/MCQ6/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Arguments/MCQ6/src/senzo"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Arguments/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/BreakTest/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/CharacterValue/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Compare/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/CompareStrings/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/ContinueTest/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Decimals/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/DoLoop/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Escapes/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Even/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/ForLoop/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/ForLoop2/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/ForLoop3/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/FormatOutput/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/GasBill/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/GetValidNumber/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Input/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/IntegerInput/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Items/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/MathsOps/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Mean/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/MixedNumbers/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/MultipleIf/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/PrintableCharacter/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Radix/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Reader/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Search/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Sentinel1/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Sentinel2/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/SimpleReader/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/SineMore/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/SinePi/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/SplitAndJoin/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/StoreBoolean/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/StringInput/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/StringMethods/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Switch/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/SwitchString/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Tables/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Validate/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/Vowels/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 2/WhileLoop/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ArrayCopy"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ArrayExtension"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ArrayReference"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ArraySortMethod"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ArrayTest"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/CharArrayToString"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/CompareReferences"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/EasyAdd"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ExceptionTest"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/JavaClass"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/Mean"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/MeanArray"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/MeanArrayInit"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/MethodScope"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/PhoneBookEntry"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/PrimitiveArguments"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ReadandReverse"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/ReferenceArguments"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/Search"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/SimpleAdd"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/SimpleAddWithMethod"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/SimplerAdd"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/StackTrace"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/StringToCharArray"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/SumDoubles"/>
+	<classpathentry kind="src" path="Learning Examples/Week 3/SystemArrayCopy"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/ExceptionTest"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/Inheritance"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/LinearSearch"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/ObjectStreams"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBook"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBook-Binary"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBook-Text"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBookArrayList"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBookBasic"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBookLoader"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBookVector"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/PhoneBookWithSearch"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/ReadandReverse"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/StackTrace"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/SumDoubles"/>
+	<classpathentry kind="src" path="Learning Examples/Week 4/Text"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/AggregateOperations/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/BindingExpressions/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/ChangingTextFonts/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/DrawingLines/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/DrawingShapes/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/DrawingText/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/FormValidation/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/FunctionalInterfaces/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/HelloWorld/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/HelloWorldSB/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/JavaFXRectangle/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/Lambdas/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/Mixins/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/MouseDemo/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/PaintingColors/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/SimpleGui/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/TextFonts/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 5/TwoStages/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/AlertDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/BorderPaneExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ChoiceBoxExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ChoiceDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ComboBoxExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ConfirmationCustomDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ConfirmationDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ErrorDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/FlowPaneExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/GridPaneExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/HBoxExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ImageDisplay/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ImageRadioButtonExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/InformationDialogExample_nohead/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/InformationDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/KeyCombinationsAndContextMenus/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/LabelImage/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ListViewExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/MenusExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/MenusSimpleExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/RadioButtonExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ScrollPaneExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/SliderExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/TableViewExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/TextInputDialogExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/ToggleButtonExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/TreeViewExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/VBoxExample/src"/>
+	<classpathentry kind="src" path="Learning Examples/Week 6/WarningDialogExample/src"/>
+	<classpathentry kind="src" path="LibGui/src"/>
+	<classpathentry kind="src" path="MCQ/src"/>
+	<classpathentry excluding="senzo/" kind="src" path="MCQ10/src"/>
+	<classpathentry kind="src" path="MCQ10/src/senzo"/>
+	<classpathentry kind="src" path="MCQ11/src"/>
+	<classpathentry kind="src" path="MCQ12/src"/>
+	<classpathentry kind="src" path="MCQ13/src"/>
+	<classpathentry kind="src" path="MCQ14/src"/>
+	<classpathentry kind="src" path="MCQ15/src"/>
+	<classpathentry kind="src" path="MCQ16/src"/>
+	<classpathentry kind="src" path="MCQ17/src"/>
+	<classpathentry kind="src" path="MCQ2/src"/>
+	<classpathentry excluding="senzo/" kind="src" path="MCQ3/src"/>
+	<classpathentry kind="src" path="MCQ3/src/senzo"/>
+	<classpathentry kind="src" path="MCQ4/src"/>
+	<classpathentry kind="src" path="MCQ5/src"/>
+	<classpathentry excluding="senzo/" kind="src" path="MCQ6/src"/>
+	<classpathentry kind="src" path="MCQ6/src/senzo"/>
+	<classpathentry kind="src" path="MintelTest/src"/>
+	<classpathentry kind="src" path="numbergenerator/src"/>
+	<classpathentry kind="src" path="RMI/src"/>
+	<classpathentry kind="src" path="SEMenu/src"/>
+	<classpathentry kind="src" path="Software Eng/src"/>
+	<classpathentry kind="src" path="super example/src"/>
+	<classpathentry kind="src" path="TCP_1/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="Test/udp"/>
+	<classpathentry kind="src" path="Threads/src"/>
+	<classpathentry kind="src" path="UDP/src"/>
+	<classpathentry kind="src" path="week4 java/ExceptionTest"/>
+	<classpathentry kind="src" path="week4 java/Inheritance"/>
+	<classpathentry kind="src" path="week4 java/LinearSearch"/>
+	<classpathentry kind="src" path="week4 java/PhoneBook"/>
+	<classpathentry kind="src" path="week4 java/PhoneBookArrayList"/>
+	<classpathentry kind="src" path="week4 java/PhoneBookBasic"/>
+	<classpathentry kind="src" path="week4 java/PhoneBookLoader"/>
+	<classpathentry kind="src" path="week4 java/PhoneBookVector"/>
+	<classpathentry kind="src" path="week4 java/PhoneBookWithSearch"/>
+	<classpathentry kind="src" path="week4 java/ReadandReverse"/>
+	<classpathentry kind="src" path="week4 java/Shapes"/>
+	<classpathentry kind="src" path="week4 java/StackTrace"/>
+	<classpathentry kind="src" path="week4 java/SumDoubles"/>
+	<classpathentry kind="lib" path="Learning Examples/Week 2/Arguments/MCQ6/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ10/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ11/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ12/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ13/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ14/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ15/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ16/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ17/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ2/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ3/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ4/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ5/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="lib" path="MCQ6/lib/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="(Software Engineering) Quiz/bin"/>
+</classpath>

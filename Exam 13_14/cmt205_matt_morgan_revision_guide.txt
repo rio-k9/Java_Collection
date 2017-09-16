@@ -1,0 +1,23 @@
+NOTE: This revision guide ONLY RELATES to the content taught by DR MATT MORGAN (NOT DR YUKUN LAI)
+
+The exam paper requires you to answer THREE questions from FOUR. Of the FOUR questions, there will be TWO questions on the exam paper that cover the content taught by Dr Matt Morgan. ONE question will require to you to show an understanding of Java concepts, the SECOND question requires you to write a Java program for a given problem.
+
+Examinable content has been taken from lectures 3, 4 and 7:
+
+WEEK 3 : METHODS, ARRAYS AND EXCEPTIONS
+WEEK 4 : TEXT AND BINARY FILES, INHERITANCE, PACKAGES
+
+- UNDERSTAND Composition, Inheritance and Polymorphism.
+- IGNORE packages.
+
+WEEK 7 : MATHEMATICAL METHODS, STRING MANIPULATION, GENERICS AND COLLECTIONS, SORTING, CLASS DESIGN AND ECLIPSE FEATURES
+
+- IGNORE ECLIPSE features.
+
+PLEASE NOTE: The following lecture content (5+6) is *NOT* examinable and can be IGNORED:
+
+WEEK 5 + 6 : JAVA FX
+
++Java FX has been covered in depth in your coursework. As such, this is NOT covered in the examination.
+
+  

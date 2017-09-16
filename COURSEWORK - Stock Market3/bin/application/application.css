@@ -1,0 +1,42 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#clickMe {
+	-fx-font-size:14px;
+	-fx-background-color: rgba(17, 118, 196, .80);
+	-fx-text-fill: white;
+	-fx-padding:10 30 10 30;
+	
+}
+* applies to ID
+*/
+/*
+.button {
+	-fx-font-size:14px;
+	-fx-background-color: rgba(17, 118, 196, .80);
+	-fx-text-fill: white;
+	-fx-padding:10 30 10 30;
+}
+applies to all buttons */
+
+/*
+.root { applies to frame 
+	
+	
+	-fx-background-color: rgba(0, 30, 102 .80);
+	-fx-padding:10 30 10 30;
+}*/
